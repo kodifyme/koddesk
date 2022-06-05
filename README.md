@@ -9,6 +9,4 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=koddesk&style=flat-square&color=blue" alt=""/>
-<h1>
-  <img src="https://media.giphy.com/media/D9wo4tEhdH2G9P9Slb/giphy.gif" width="30px"/>
-</h1>
+
