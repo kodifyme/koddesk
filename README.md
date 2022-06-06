@@ -17,12 +17,23 @@
   
 ### :man_technologist: About Me :
 Hi, i am Nikolay Dobychin, a IOS developer from Saint Petersburg.
-  - :computer: 
-  -
-  -
-  -
-  -
-  
+  - :school: В 2021 году закончил СПБГЭУ по направлению "Менеджмент - управление производственными предприятиями". 
+  - :computer: В 2022 году закончил курс Нетологии по направлению IOS - разработчик, также прохожу дополнительное обучение по данному направлению. 
+  - :books: Ежедневно изучаю дополнительные материалы, практикуюсь на пет-приложениях. В планах освоить алгоритмы.
+ 
+  ---
+  ### :dagger: Skills :
+  - Работа с API 
+  - GCD/Operations
+  - IOS GuideLines
+  - MVC,MVP
+  - ООП
+  - Основные элементы UIKit
+  - Жизненный цикл ViewController
+  - Жизненный цикл приложения
+  - ARC
+  - Generics
+  - URLSession
   ---
   ### :hammer_and_wrench: Tools :
   <div>
