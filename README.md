@@ -51,5 +51,5 @@ Hi, i am Nikolay Dobychin, a IOS developer from Saint Petersburg.
 ---
 #### :calling: Contact me :
 - <img align="center" alt="telegram" width="20" src="https://telegram.org/img/t_logo.svg?1" /> Telegram: <a href="https://t.me/IMKODD1">IMKODD1</a>
-- <img align="center" alt="Email" width="20" src="https://www.svgrepo.com/show/145950/email.svg" /> Email: <a href="mailto:dobychin.nd@mail.ru">dobychin.nd@mail.ru</a>
+- <img align="center" alt="Email" width="20" src="https://www.svgrepo.com/show/145950/email.svg" /> Email: <a href="mailto:dobychin.nik@inbox.ru">dobychin.nik@inbox.ru</a>
     
