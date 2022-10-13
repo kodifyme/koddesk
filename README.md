@@ -46,7 +46,8 @@ Hi, i am Nikolay Dobychin, a IOS developer from Saint Petersburg.
     
 ---
  ### :books: Мои сертификаты :
-    <div align="start">IOS разработчик <a href="https://u.netology.ngcdn.ru/backend/uploads/legacy/shared_diplomas/image/145183/9cc3596595793cdf3d099d1dd68bd48c.png"> 
+    <a href="https://u.netology.ngcdn.ru/backend/uploads/legacy/shared_diplomas/image/145183/9cc3596595793cdf3d099d1dd68bd48c.png"> 
+    <div align="start">IOS разработчик 
     </a>
     
 ---
