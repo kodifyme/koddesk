@@ -26,7 +26,7 @@ Hi, i am Nikolay Dobychin, a IOS developer from Saint Petersburg.
   - Работа с API 
   - GCD/Operations
   - IOS GuideLines
-  - MVC,MVP
+  - MVC,MVP,MVVM,SOLID
   - ООП
   - Основные элементы UIKit
   - Жизненный цикл ViewController
