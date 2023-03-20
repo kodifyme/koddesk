@@ -4,9 +4,6 @@
   <a href="https://career.habr.com/koddek">
     <img src="https://img.shields.io/badge/habr career-informational?style=for-the-badge&logo=HABR&logoColor=white" alt="HABR Badge" />
   </a>
-  <a href="https://www.instagram.com/kodd1ks/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=koddesk&style=flat-square&color=blue"/>
